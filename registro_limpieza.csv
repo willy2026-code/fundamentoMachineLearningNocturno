@@ -1,0 +1,5 @@
+etapa,filas,columnas,nota
+Original descargado,101766,50,Sin modificaciones
+Copia de trabajo,101766,50,Conserva todas las filas; no se deduplican pacientes
+Selección de siete medidas,101766,7,Conversión controlada a numérico
+Imputación por mediana,101766,7,Valores imputados en las siete variables: 0

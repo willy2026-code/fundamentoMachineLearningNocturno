@@ -1,0 +1,8 @@
+variable,Q1,Q3,IQR,limite_inferior,limite_superior,outliers,porcentaje,advertencia
+time_in_hospital,2.0,6.0,4.0,-4.0,12.0,2252,2.2129198357015114,Revisar plausibilidad
+num_lab_procedures,31.0,57.0,26.0,-8.0,96.0,143,0.14051844427411905,Revisar plausibilidad
+num_procedures,0.0,2.0,2.0,-3.0,5.0,4954,4.868030579957943,Revisar plausibilidad
+num_medications,10.0,20.0,10.0,-5.0,35.0,2557,2.5126270070554018,Revisar plausibilidad
+number_outpatient,0.0,0.0,0.0,0.0,0.0,16739,16.44851915177957,IQR=0; interpretar con cautela
+number_emergency,0.0,0.0,0.0,0.0,0.0,11383,11.185464693512568,IQR=0; interpretar con cautela
+number_inpatient,0.0,1.0,1.0,-1.5,2.5,7049,6.92667492089696,Revisar plausibilidad
